@@ -8,7 +8,7 @@ namespace RandomNumbers
         static void Main(string[] args)
         {
             Stopwatch sw = new Stopwatch();
-            bool uhodnuto = false;
+            bool uhodnto = false;
             bool pokracovat = true;
             while (pokracovat)
             {
